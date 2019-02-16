@@ -1,0 +1,15 @@
+/* Add your styles here */
+body {background: #f1f1f1;}
+h1{font-size: 80px;color:rgba(0, 255, 255, 0.8);font-weight: 300}
+h3{font-size: 30px;}
+.navbar{background: #5191fd;padding:10px;} /* padding defines the space between the navbar and contents btw the navbar*/
+.navbars{display: inline-block;padding:20px;margin-left: 20px;margin-right: 10px;background: #fff;border-radius:3px;}
+.header{color:rgba(0, 255, 255, 0.8)}
+.header h1 {color:000;text-align: center;padding: 60px;}  /* this will only target h1 under the header section*/
+.post{margin-right: 60px;margin-left: 60px;}
+.box{position:fixed;}
+.box-1{left:20%}
+.box-2{left:60%}
+.box-3{left:65%}
+.box-4{left:70%}
+.lat{font-size: 30px;background:rgba(0, 255, 255, 0.8);color: white;}
